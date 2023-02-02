@@ -1,4 +1,9 @@
 import styled from "styled-components";
+import HeroSection from "./components/about/HeroSection";
+import SecondSection from "./components/about/SecondSection";
+import ThirdSection from "./components/about/ThirdSection";
+import FourthSection from "./components/about/FourthSection";
+import Footer from "./components/Footer";
 
 const About = () => {
   const Wrapper = styled.section`
@@ -33,7 +38,13 @@ const About = () => {
     }
   `;
 
-  return <Wrapper></Wrapper>;
+  return <Wrapper>
+    <HeroSection/>
+    <SecondSection/>
+    <ThirdSection/>
+    <FourthSection/>
+    <Footer/>
+  </Wrapper>;
 };
 
 export default About;
