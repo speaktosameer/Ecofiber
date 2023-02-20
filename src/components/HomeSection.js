@@ -15,8 +15,8 @@ const HomeSection = () => {
             <div className='hero-section-data'>
                 <h2 className='intro-data'>Who we are</h2>
                 <p>
-                Millions across the globe are toiling to save the eco system. We decided to do our bit. With an extremely humble beginning we started ECOFIBRE.
-                <br/> <br/>At Ecofibre we extract the best from waste. With state-of-the-art infrastructure we are converting the banana stem to banana fibre.
+                Millions across the globe are toiling to save the eco system. We decided to do our bit. With an extremely humble beginning we started Bhojpatta.
+                <br/> <br/>At Bhojpatta we extract the best from waste. With state-of-the-art infrastructure we are converting the banana stem to banana fibre.
                 </p>
                 <br/>
                 <NavLink to='/about'><Button>Read More</Button></NavLink>

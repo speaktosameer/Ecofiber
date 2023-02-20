@@ -10,7 +10,7 @@ const SecondSection = () => {
             <div className='hero-section-data'>
                 <h2 className='intro-data' style={{textAlign:'left'}}>Our Story</h2>
                 <p style={{textAlign:'left'}}>
-                Ecofibre was started with an aim to support the ecosystem and at the same time provide quality and sustainable raw material (banana fibre) which can be further processed into quality products.</p>
+                Bhojpatta was started with an aim to support the ecosystem and at the same time provide quality and sustainable raw material (banana fibre) which can be further processed into quality products.</p>
                 <br/>
                 <p style={{textAlign:'left'}}>Spread over 4000 square feet, our labour force comprises of mainly women who run state-of-the-art machinery installed to produce high quality banana fibre.</p>
 

@@ -14,13 +14,13 @@ const Footer = () => {
         <div className="brand-section-slider">
           {/* my 1st img  */}
           <div className="slide">
-            <h3> <NavLink to="mailto:priti@ecofibre.co.in"><MdOutlineMarkEmailUnread /> priti@ecofibre.co.in</NavLink></h3>
+            <h3> <NavLink to="mailto:priti@Bhojpatta.co.in"><MdOutlineMarkEmailUnread /> priti@Bhojpatta.co.in</NavLink></h3>
           </div>
           <div className="slide">
           <h3> <NavLink to="tel:+91 9833873710"><FiPhoneCall /> +91 9833873710</NavLink></h3>
           </div>
            <div className="slide">
-           <h3> <NavLink to="mailto:priti@ecofibre.co.in"><SiFacebook /> Follow on Facebook</NavLink></h3>
+           <h3> <NavLink to="mailto:priti@Bhojpatta.co.in"><SiFacebook /> Follow on Facebook</NavLink></h3>
             </div>
             <div className="slide">
             <h3> <NavLink to="/"> Refund Policy</NavLink></h3>

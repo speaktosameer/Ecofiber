@@ -11,7 +11,7 @@ const HeroSection = () => {
         alignItems: 'center',
         justifyContent: 'center'
       }}>
-      <h1 style={{ color: 'white' }}>Welcome to EcoFibre</h1>
+      <h1 style={{ color: 'white' }}>Welcome to Bhojpatta</h1>
     </div>
   )
 }

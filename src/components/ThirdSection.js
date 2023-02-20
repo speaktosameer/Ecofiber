@@ -12,8 +12,8 @@ const ThirdSection = () => {
         justifyContent: 'center',
         paddingTop: '3rem',
         paddingBottom: '2rem'}}>
-        <h3>QUALITY PRODUCE @ ECOFIBRE</h3>
-        <p>At Ecofibre we are able to produce banana fibres with high tensile strength, low density, strong moisture with <br/> strong absorption quality, low elongation, making it a suitable in a wide range of products, namely ropes, <br/>handicrafts, garments, yarns and sanitary pads to name a few. </p>
+        <h3>QUALITY PRODUCE @ Bhojpatta</h3>
+        <p>At Bhojpatta we are able to produce banana fibres with high tensile strength, low density, strong moisture with <br/> strong absorption quality, low elongation, making it a suitable in a wide range of products, namely ropes, <br/>handicrafts, garments, yarns and sanitary pads to name a few. </p>
         <h3 style={{textDecorationLine:'underline'}}>Single Fibre Strength</h3>
         </div>
         <div className="grid grid-three-column">
